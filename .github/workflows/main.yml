@@ -1,1 +1,3 @@
-print("I'm learning how to program.")
+start:
+  print("I'm learning how to program.")
+stop:
